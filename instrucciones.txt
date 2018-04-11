@@ -1,0 +1,5 @@
+1) instalar wamp o xamp porque el framewrok era un codegniter
+2) crear una base de datos llamada andi
+3) importar sql
+4) en site/ config/ database.php  esta la info de la conexion
+5) en views/ puntos-d1  esta la indexview.php que es la vista del mapa
