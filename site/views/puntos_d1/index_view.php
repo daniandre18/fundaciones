@@ -255,7 +255,7 @@ $(window).load(function(){
 	<div id="wrapper">
     	<div class="places-select">
     		<div class="places-content">
-    			<div class="places-showhide"><a href="#!" onclick="$('.places-list').toggle();">Selecciona  localidad</a></div>
+    			<div class="places-showhide"><a href="#!" onclick="$('.places-list').toggle();">Selecciona localidad</a></div>
 				<div class="places-list" style="display:block;"></div>
 				<div class="places-showhide-bottom">&nbsp;</div>
     		</div>
