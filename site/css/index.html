@@ -1,0 +1,18 @@
+<html>
+<head>
+	<title>403 Forbidden</title>
+</head>
+<body onload="volver();">
+<script type="text/javascript">
+function volver(){
+//funcion que devuelve al root del sitio
+var ac_url = document.URL;
+ac_url = ac_url.split('/'); 
+ac_url =  ac_url[0]+'//'+ ac_url[2];
+document.location = ac_url;
+}
+</script>
+<p>Directory access is forbidden.</p>
+
+</body>
+</html>
